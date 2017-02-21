@@ -1,7 +1,7 @@
 // The program is adapted from MusicViz.pde developed by Abhinav Kr
 // The weather data is retrieved using the Temboo library
 // The initial animation is based on Random Loader 2 on OpenProcessing.org
-// Authored by: Siyuan Hu & Zack Kimelheim
+// Authored Zack Kimelheim
 
 import ddf.minim.*;
 import ddf.minim.analysis.*;
